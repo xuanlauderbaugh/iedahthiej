@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ucoongeise.melissakeizer.com/sitemap.xml
